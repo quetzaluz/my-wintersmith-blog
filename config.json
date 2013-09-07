@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "name": "console.log(cydbot)",
+    "owner": "C. Q. La Luz",
+    "description": ">a blog by someone who doesn't like to blog."
   },
   "plugins": [
     "./plugins/paginator.coffee"

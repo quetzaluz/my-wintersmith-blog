@@ -2,20 +2,11 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
-This footer text can be edited in about.md
+Everything written on this blog should be taken with 49 grains of salt and a tall glass of water. I am no expert.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+Why would I have a blog if I hate to blog? Because people in my class insisted I had valuable insights to share.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
+If you would like to know more about me feel free to check out my [GitHub][1] or my [LinkedIn][2] profile.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: http://github.com/quetzaluz
+[2]: http://linkedin.com/in/quetzaluz

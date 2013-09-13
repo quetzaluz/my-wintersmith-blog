@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "http://cydbot.com",
     "name": "console.log(cydbot)",
     "owner": "C. Q. La Luz",
-    "description": ">a blog by someone who doesn't like to blog."
+    "description": "> a blog by someone who would rather code than blog."
   },
   "plugins": [
     "./plugins/paginator.coffee"

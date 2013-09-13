@@ -38,7 +38,7 @@ body, a {
 }
 
 a:hover {
-  color: #ff8000;
+  color: #e500ac;
   text-decoration: underline;
 }
 
@@ -101,7 +101,7 @@ hr {
 /* page header */
 
 .header {
-  margin: 3em 0 5em;
+  margin: 1em 0 1em;
 }
 
 .header h1 {
@@ -433,7 +433,7 @@ code.lang-markdown .bullet {
     margin: 0 !important;
   }
   footer .nav {
-    margin: 1em 0;
+    margin: 0.5em 0 1em;
   }
   footer .about {
     padding: 0;

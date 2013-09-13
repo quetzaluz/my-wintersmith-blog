@@ -24,7 +24,7 @@ body:after {
 }
 
 .content-wrap {
-  background: rgba(225,225,225,0.5);
+  background: rgba(225,225,225,0.6);
   width: 34em;
   margin: 0 auto;
   padding: 0 0.3em 0.01em 0.3em;
@@ -147,12 +147,12 @@ body.article-detail > header {
 /* page footer */
 
 footer {
-  margin: 3em 0;
+  margin: 1em 0;
 }
 
 footer .nav {
   text-align: center;
-  margin-top: 5em;
+  margin-top: 3em;
   margin-bottom: 3.5em;
 }
 

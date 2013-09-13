@@ -27,6 +27,10 @@ body:after {
   background: rgba(225,225,225,0.5);
   width: 34em;
   margin: 0 auto;
+  padding: 0 0.3em 0.01em 0.3em;
+  -moz-box-shadow: 0px 0px 8px #000;
+  -webkit-box-shadow: 0px 0px 8px #000;
+  box-shadow: 0px 0px 8px #000;
 }
 
 body, a {
@@ -180,7 +184,7 @@ footer .copy {
 }
 
 footer .copy, footer .copy a {
-  color: #8e8e8e;
+  color: black;
 }
 
 /* article */
@@ -356,7 +360,7 @@ code.lang-markdown .bullet {
 /* Original theme - https://github.com/chriskempson/tomorrow-theme */
 /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
 .tomorrow-comment, pre .comment, pre .title {
-  color: #8e908c;
+  color: #656664;
 }
 
 .tomorrow-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
@@ -400,7 +404,7 @@ code.lang-markdown .bullet {
 @media (max-width: 690px) {
   .content-wrap {
     width: auto;
-    padding: 0 1em;
+    padding: 0.01em 1em;
   }
   .header {
     margin: 1em 0;

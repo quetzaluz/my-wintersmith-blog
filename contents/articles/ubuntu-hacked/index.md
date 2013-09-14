@@ -6,6 +6,9 @@ template: article.jade
 ---
 
 You can read their post about it <a href="http://www.omgubuntu.co.uk/2013/07/ubuntu-forum-hacked-users-advised-to-change-passwords">here</a>.
+
+<span class="more"></span>
+
 <br />
 I love Ubuntu and before getting my Mac I was developing on an netbook with an atom processor and Ubuntu unity. It was cute, but when it came to building large Ruby or node projects, it just didn't cut it. It was sad to see the Ubuntu Forums get whacked the day after I defected to Mac -- I still believe in you, Ubuntu, I really do!
 <br />
